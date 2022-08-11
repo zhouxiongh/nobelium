@@ -47,7 +47,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: ''
+      repo: 'zhouxiongh/nobelium'
     },
     cusdisConfig: {
       appId: '', // data-app-id
