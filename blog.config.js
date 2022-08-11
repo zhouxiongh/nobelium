@@ -1,6 +1,6 @@
 const BLOG = {
   title: "Jason's blog",
-  author: 'ZhouXiong He',
+  author: 'Zhouxiong He',
   email: 'hezhoux@qq.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
